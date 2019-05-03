@@ -1,0 +1,3 @@
+[submodule "WF_Invoice_SystemPlane"]
+	path = WF_Invoice_SystemPlane
+	url = https://github.com/seareon/WF_Invoice_SystemPlane.git
