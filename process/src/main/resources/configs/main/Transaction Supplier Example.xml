@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://web-harvest.sourceforge.net/schema/1.0/config" scriptlang="groovy">
+
+    <script><![CDATA[
+        import com.ibank.automation.invoice_usecase.app.AppExample
+        import com.ibank.automation.invoice_usecase.supplier.TransactionSupplierExample
+
+        def app = AppExample.init(binding).get();
+        def transactions = app.loadTransactions(TransactionSupplierExample.class);
+
+        // Exporting only transaction ids to the next steps.
+        result = [];
+        transactions.each {
+            result << ['transaction_id': it.id];
+        }
+        ]]></script>
+
+    <export include-original-data="false">
+        <multi-column list="${result}" split-results="true">
+            <put-to-column-getter name="_sys_transaction_id" property="transaction_id"/>
+        </multi-column>
+    </export>
+</config>

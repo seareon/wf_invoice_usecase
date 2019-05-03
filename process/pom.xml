@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>invoice-usecase</artifactId>
+        <groupId>com.ibank.automation</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ibank.automation</groupId>
+    <artifactId>process</artifactId>
+    <!-- Deploying to 'release' repo doesn't allow same version, so 400 error code will be returned. -->
+    <!-- Deploying to 'dev' repo doesn't allow version to end with -SNAPSHOT, 400 error code will be returned. -->
+    <version>0.0.1-SNAPSHOT</version>
+
+    <!-- Prefix name for all Bot configs created from this bundle. -->
+    <name>Bots</name>
+    <description>Bot config bungle keeping Bot xml Configs. This file is deployed to the Nexus and then to Control Tower</description>
+
+    <properties>
+        <!-- Link to Nexus repo. -->
+        <bcb.dev.repo.url>https://db.server.com/nexus/service/local/repositories/wf-machine-config-bundle/content/</bcb.dev.repo.url>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <artifactId>workfusion-application</artifactId>
+                <groupId>com.freedomoss.crowdcontrol</groupId>
+                <version>${workfusion.version}</version>
+                <scope>import</scope>
+                <type>pom</type>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+    
+    <dependencies>
+        <dependency>
+            <groupId>com.workfusion.intake</groupId>
+            <artifactId>intake-core</artifactId>
+            <version>1.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-junit-jupiter</artifactId>
+            <version>2.23.0</version>
+            <scope>test</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.junit.jupiter</groupId>
+                    <artifactId>junit-jupiter-api</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+            <resource>
+                <directory>${project.build.sourceDirectory}</directory>
+                <includes>
+                    <include>**/*.groovy</include>
+                </includes>
+            </resource>
+        </resources>
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.0</version>
+                <executions>
+                    <execution>
+                        <id>compile-java</id>
+                        <goals>
+                            <goal>compile</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <encoding>${project.build.sourceEncoding}</encoding>
+                    <source>${project.build.javaVersion}</source>
+                    <target>${project.build.javaVersion}</target>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <artifactId>maven-eclipse-plugin</artifactId>
+                <version>2.10</version>
+                <configuration>
+                    <additionalProjectnatures>
+                        <projectnature>com.workfusion.studio.mcb.mcbProjectNature</projectnature>
+                    </additionalProjectnatures>
+                </configuration>
+            </plugin>
+
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+                <version>3.2.1</version>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>shade</goal>
+                        </goals>
+                        <configuration>
+                        	<createDependencyReducedPom>false</createDependencyReducedPom>
+                            <transformers>
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer"></transformer>
+                            </transformers>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.sonatype.plugins</groupId>
+                <artifactId>nexus-staging-maven-plugin</artifactId>
+                <version>1.6.8</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <skipStaging>true</skipStaging>
+                </configuration>
+            </plugin>
+
+        </plugins>
+    </build>
+
+    <!--
+        Deployment description for 'dev' and 'release' modes.
+         - dev profile deploys BCB to the snapshot Nexus Repository. Same version redeploy is allowed.
+         - release profile deploys BCB to the release Nexus Repository. Usually used to lock current stable version and
+           keep it without modifying.
+    -->
+    <distributionManagement>
+        <repository>
+            <id>bcb-dev-repo</id>
+            <url>${bcb.dev.repo.url}</url>
+        </repository>
+    </distributionManagement>
+
+
+</project>

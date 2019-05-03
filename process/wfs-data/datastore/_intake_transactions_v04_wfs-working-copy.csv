@@ -1,0 +1,906 @@
+"transaction_id","transaction_data","bp_run_id"
+"3a4be8eb-1f19-4ec5-853d-77a30e4c99a4","{
+  ""meta"" : { },
+  ""id"" : ""3a4be8eb-1f19-4ec5-853d-77a30e4c99a4"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""15194aed-b88c-403a-84f4-f56633e19be9"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/610a1cfb-9660-4b2d-a485-32a750dbb174.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","A7D0B93A-071D-478F-A015-1209504E1C88"
+"4cc8d064-476e-45c2-82ed-3d2751686ee3","{
+  ""meta"" : { },
+  ""id"" : ""4cc8d064-476e-45c2-82ed-3d2751686ee3"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""19ca0bc9-94a5-4c1f-be79-1497cf7d11db"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/d68095fe-13f1-4f1b-805b-ba41e332114c.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","A7D0B93A-071D-478F-A015-1209504E1C88"
+"7e1375f1-2717-4ab0-8f8a-3bc124c791f9","{
+  ""meta"" : { },
+  ""id"" : ""7e1375f1-2717-4ab0-8f8a-3bc124c791f9"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""63995bef-7b12-4c1e-ba9d-cba569a9fbbd"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/6397bab6-642c-46fc-a73b-fcce3fcf22bb.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","A7D0B93A-071D-478F-A015-1209504E1C88"
+"41011a04-5af1-46eb-9ad5-97d3ba6f22c8","{
+  ""meta"" : { },
+  ""id"" : ""41011a04-5af1-46eb-9ad5-97d3ba6f22c8"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""b414e0af-8730-441e-a780-84d5466bbe0b"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/d83d5555-565f-4ec7-b596-2f988ee485af.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","A7D0B93A-071D-478F-A015-1209504E1C88"
+"94c28381-7f14-4937-a786-179c12632dc0","{
+  ""meta"" : { },
+  ""id"" : ""94c28381-7f14-4937-a786-179c12632dc0"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""bd7c33d4-59de-43fc-bedf-ae42801f3ff2"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/04b026ce-b8fd-4dfa-ad58-df6b741efd19.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","A7D0B93A-071D-478F-A015-1209504E1C88"
+"0e45b709-8cf9-479a-be78-90d3b7a0123c","{
+  ""meta"" : { },
+  ""id"" : ""0e45b709-8cf9-479a-be78-90d3b7a0123c"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""56e7bb45-cffb-4ba0-a148-92a3000f731f"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/d0a3622f-fbe2-4490-992d-75978737fbd1.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","DA8A5212-CE68-424D-A619-52A226C069C0"
+"96648a39-25ec-47d9-be52-2d52cea93394","{
+  ""meta"" : { },
+  ""id"" : ""96648a39-25ec-47d9-be52-2d52cea93394"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""96a36316-a34e-4a9e-8811-d96c137b761e"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/6608d512-f92b-4e33-9832-8889dc568963.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","DA8A5212-CE68-424D-A619-52A226C069C0"
+"d8951f08-e2a5-441c-ad2e-1dcb6abd95e2","{
+  ""meta"" : { },
+  ""id"" : ""d8951f08-e2a5-441c-ad2e-1dcb6abd95e2"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""53a14c3e-6809-4c0a-92b8-d3f4c7bd952a"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/7d196a85-f9bb-4052-bc25-f06787101d8c.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","DA8A5212-CE68-424D-A619-52A226C069C0"
+"3cdb6aea-604f-466b-a666-f300a861aa4a","{
+  ""meta"" : { },
+  ""id"" : ""3cdb6aea-604f-466b-a666-f300a861aa4a"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""ce0895d2-4b1f-4fc3-bb15-98c4dd3edb20"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/140f24c7-fa9e-4dfd-b561-50c401d492d5.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","DA8A5212-CE68-424D-A619-52A226C069C0"
+"6210334e-1db9-4366-91c1-fe15e23465ef","{
+  ""meta"" : { },
+  ""id"" : ""6210334e-1db9-4366-91c1-fe15e23465ef"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""7e769a12-b035-462c-8013-f37fd23e34f8"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/a90e92c5-94ee-40a1-9eb8-759cc3da83e6.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","DA8A5212-CE68-424D-A619-52A226C069C0"
+"34b0f419-b507-4c14-ae9d-3e783d3f9c15","{
+  ""meta"" : { },
+  ""id"" : ""34b0f419-b507-4c14-ae9d-3e783d3f9c15"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""f6b2c1ef-249b-4726-b8c6-97f76fc2e9f9"",
+    ""name"" : ""Honda Amaze"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$300,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Honda Amaze""
+      },
+      ""index"" : {
+        ""singleValue"" : ""0""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Honda""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Honda Amaze""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""6c5ea07a-eb00-4b9f-a5a0-f5ce52c8879a"",
+    ""name"" : ""Honda BR-V"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$300,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Honda BR-V""
+      },
+      ""index"" : {
+        ""singleValue"" : ""1""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Honda""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Honda BR-V""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""02489a27-4bea-4b2c-8ad3-6f9e83a9c002"",
+    ""name"" : ""Honda City"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$300,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Honda City""
+      },
+      ""index"" : {
+        ""singleValue"" : ""2""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Honda""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Honda City""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""f5a32bb8-3482-4be2-8edf-fed4e766b7a6"",
+    ""name"" : ""Hyundai Creta"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$400,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Hyundai Creta""
+      },
+      ""index"" : {
+        ""singleValue"" : ""3""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Hyundai""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Hyundai Creta""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""1071b017-3ec0-415d-8136-e81c1a703205"",
+    ""name"" : ""Hyundai i20 Active"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$400,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Hyundai i20 Active""
+      },
+      ""index"" : {
+        ""singleValue"" : ""4""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Hyundai""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Hyundai i20 Active""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""d605a6ec-5855-468f-9391-68d08313e745"",
+    ""name"" : ""Hyundai Verna"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$400,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Hyundai Verna""
+      },
+      ""index"" : {
+        ""singleValue"" : ""5""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Hyundai""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Hyundai Verna""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""a3a19978-3191-4fb6-9e76-67ca4382d53c"",
+    ""name"" : ""Lamborghini"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$4,556,564.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Lamborghini Aventador""
+      },
+      ""index"" : {
+        ""singleValue"" : ""6""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""luxury""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Lamborghini""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""52ad2122-e6de-4836-bcd2-c7f0ad1b6643"",
+    ""name"" : ""Maruti Suzuki Baleno"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$500,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Maruti Suzuki Baleno""
+      },
+      ""index"" : {
+        ""singleValue"" : ""7""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Maruti Suzuki""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Maruti Suzuki Baleno""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""9dbca3c7-e314-43ae-8f28-22ceb5a2f5bc"",
+    ""name"" : ""Maruti Suzuki Ertiga"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$500,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Maruti Suzuki Ertiga""
+      },
+      ""index"" : {
+        ""singleValue"" : ""8""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Maruti Suzuki""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Maruti Suzuki Ertiga""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""5a6a2246-2f26-4f8e-822c-feb3cc17f9c5"",
+    ""name"" : ""Maruti Suzuki S-Cross"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$500,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Maruti Suzuki S-Cross""
+      },
+      ""index"" : {
+        ""singleValue"" : ""9""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Maruti Suzuki""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Maruti Suzuki S-Cross""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""total discount""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""21e942b8-da9b-4d7a-b4cb-b542812ed20f"",
+    ""name"" : ""Nissan GT-R"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$2.40""
+      },
+      ""description"" : {
+        ""singleValue"" : ""The beast in question is the Nissan GT-R""
+      },
+      ""index"" : {
+        ""singleValue"" : ""10""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""GT""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Nissan GT-R""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""e9fbe89e-5b81-49c9-8d65-bf59eb0d0475"",
+    ""name"" : ""Nissan Leaf"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$22,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""The Nissan Leaf is a compact five-door hatchback electric car manufactured by Nissan and introduced in Japan and the United States.""
+      },
+      ""index"" : {
+        ""singleValue"" : ""11""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""sku000124""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Nissan Leaf""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""f9363488-710c-466e-ba80-5e642f513058"",
+    ""name"" : ""Skoda Rapid"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$700,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""New Car""
+      },
+      ""index"" : {
+        ""singleValue"" : ""12""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""ABC""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Skoda Rapid""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""8a8403ad-d130-4234-ae8d-26a2030e7e8e"",
+    ""name"" : ""suv"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$11.20""
+      },
+      ""description"" : {
+        ""singleValue"" : ""black colour bold matte""
+      },
+      ""index"" : {
+        ""singleValue"" : ""13""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""honda""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""suv""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""b5c0ac5d-c7c5-4c7b-a50e-007483dbcdea"",
+    ""name"" : ""suv"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$11.20""
+      },
+      ""description"" : {
+        ""singleValue"" : ""black colour bold matte""
+      },
+      ""index"" : {
+        ""singleValue"" : ""0""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""honda""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""suv""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""1d839315-73ac-4c24-b16b-3b8f749e8079"",
+    ""name"" : ""TATA Hexa"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$100,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""TATA Hexa""
+      },
+      ""index"" : {
+        ""singleValue"" : ""7""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""TATA""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""TATA Hexa""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""87c438cb-2274-457f-9d76-81fa15201f56"",
+    ""name"" : ""TATA Nexon"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$100,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""TATA Nexon""
+      },
+      ""index"" : {
+        ""singleValue"" : ""8""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""TATA""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""TATA Nexon""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""aa2b3d88-3fb9-4f3b-b3db-b1def14932df"",
+    ""name"" : ""TATA Sumo Gold"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$100,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""TATA Sumo Gold""
+      },
+      ""index"" : {
+        ""singleValue"" : ""9""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""TATA""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""TATA Sumo Gold""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""fe038ecb-f090-46f5-b6de-d37f4bfd0f85"",
+    ""name"" : ""TATA Tiago"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$100,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""TATA Tiago""
+      },
+      ""index"" : {
+        ""singleValue"" : ""10""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""TATA""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""TATA Tiago""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  }, {
+    ""meta"" : { },
+    ""id"" : ""76a5fd06-8a80-48d2-9ecd-56f2b9f99e3c"",
+    ""name"" : ""Toyota Camry"",
+    ""type"" : null,
+    ""textLink"" : null,
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : {
+      ""price"" : {
+        ""singleValue"" : ""$200,000.00""
+      },
+      ""description"" : {
+        ""singleValue"" : ""Toyota Camry""
+      },
+      ""index"" : {
+        ""singleValue"" : ""11""
+      },
+      ""family"" : {
+        ""singleValue"" : ""Cars""
+      },
+      ""sku"" : {
+        ""singleValue"" : ""Toyota""
+      },
+      ""product_name"" : {
+        ""singleValue"" : ""Toyota Camry""
+      },
+      ""tax_rate"" : {
+        ""singleValue"" : ""None""
+      }
+    },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","D2061025-27A8-42F2-9025-85252698EB7B"
+"ee63b734-89be-48d9-84ef-491796096408","{
+  ""meta"" : { },
+  ""id"" : ""ee63b734-89be-48d9-84ef-491796096408"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""0b383ab7-f461-43de-ba01-f09681be5fc5"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/d4a65dd5-a6d7-4c79-a48e-45248c8fc873.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","BE0E3C74-6642-407A-959C-A23B5E45E40F"
+"9cbbf2bd-88a5-4ebd-9c99-21aa22309bfe","{
+  ""meta"" : { },
+  ""id"" : ""9cbbf2bd-88a5-4ebd-9c99-21aa22309bfe"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""63ef3731-cb5b-4b90-bdd8-031968f33eb3"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/f71ccf6b-cd19-4fcc-ad83-b47b85506277.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","BE0E3C74-6642-407A-959C-A23B5E45E40F"
+"e9da16d2-2ce4-4968-b82f-a30a69767622","{
+  ""meta"" : { },
+  ""id"" : ""e9da16d2-2ce4-4968-b82f-a30a69767622"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""c17394a2-1969-4660-a177-2c9a28815cf1"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/88c67bc2-689c-4798-acd3-1ebae974880a.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","BE0E3C74-6642-407A-959C-A23B5E45E40F"
+"74cb9705-7a53-472c-befd-0d036e4ebb11","{
+  ""meta"" : { },
+  ""id"" : ""74cb9705-7a53-472c-befd-0d036e4ebb11"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""700de266-afe0-41bc-8634-d9262053a782"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/57114ce6-13e3-4309-8247-fc1d71198583.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","BE0E3C74-6642-407A-959C-A23B5E45E40F"
+"dc573446-b9f0-429c-99ae-d76be8070bdf","{
+  ""meta"" : { },
+  ""id"" : ""dc573446-b9f0-429c-99ae-d76be8070bdf"",
+  ""docs"" : [ {
+    ""meta"" : { },
+    ""id"" : ""207141a1-0870-43f1-8225-df52c999b688"",
+    ""name"" : ""Example Document"",
+    ""type"" : null,
+    ""textLink"" : ""http://localhost:15110/doc-upload/cc3dc072-7a29-4c45-943b-39528c4a79fc.txt"",
+    ""taggedTextLink"" : null,
+    ""originalDocumentLink"" : null,
+    ""extractedFields"" : { },
+    ""origin"" : null,
+    ""merged"" : false
+  } ]
+}","BE0E3C74-6642-407A-959C-A23B5E45E40F"
